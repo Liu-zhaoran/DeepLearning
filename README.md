@@ -1,2 +1,3 @@
 # DeepLearning
-Resources for deeplearning
+Resources for deeplearning.
+Code, dataset, references and so on.
